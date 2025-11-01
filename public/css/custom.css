@@ -1,0 +1,9 @@
+/* Hide the demo branding and show site title */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.navbar-brand::before {
+    content: "Hareesh Kanchanepally";
+}

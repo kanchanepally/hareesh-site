@@ -1,0 +1,259 @@
+baseURL = "https://hareesh.co/"
+title = "Hareesh Kanchanepally"
+languageCode = "en-gb"
+theme = "adritian"
+
+# Exclude footer section from generating list pages (index.html and index.xml)
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+  footer = []
+
+# Explicitly prevent the footer section from generating any output
+[outputFormats.footerSection]
+  # Empty configuration to prevent any output
+
+# Specifically disable generation of these kinds for the footer content
+disableKinds = ["footerSection", "RSS"]
+
+## Base mounts - so your site's assets are available
+[[module.mounts]]
+source = "archetypes"
+target = "archetypes"
+
+[[module.mounts]]
+source = "assets"
+target = "assets"
+
+[[module.mounts]]
+source = "i18n"
+target = "i18n"
+
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
+
+[[module.mounts]]
+source = "static"
+target = "static"
+
+# The following mounts are required for the theme to be able to load bootstrap
+[[module.mounts]]
+source = "node_modules/bootstrap/scss"
+target = "assets/scss/bootstrap"
+
+[[module.mounts]]
+source = "node_modules/bootstrap/dist/js"
+target = "assets/js/bootstrap"
+
+[[module.mounts]]
+source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+target = "assets/js/vendor/bootstrap.bundle.min.js"
+
+[[module.mounts]]
+source = "node_modules/bootstrap-print-css/css/bootstrap-print.css"
+target = "assets/css/bootstrap-print.css"
+
+[params]
+title = 'Hareesh Kanchanepally'
+description = 'Portfolio Director | Founder | Expert Generalist - Building digital sovereignty tools and enabling parents in the digital age'
+images = ['/img/og-img.png']
+
+# Customize which sections appear on homepage - we'll keep it simple for now
+sections = [
+  "showcase",
+  "about",
+  "client-and-work",
+  "contact",
+]
+
+homepageExperienceCount = 6
+
+[params.analytics]
+# Vercel analytics (free tier)
+vercelPageInsights = false
+vercelAnalytics = false
+
+# Google analytics - disabled for now
+[params.analytics.googleAnalytics]
+code = ""
+enabled = false
+[params.analytics.googleTagManager]
+code = ""
+enabled = false
+
+[build]
+writeStats = true
+
+[build.buildStats]
+enabledFor = ["scss"]
+disableClasses = false
+disableIDs = false
+disableTags = false
+enable = true
+
+[params.languages.selector.disable]
+footer = true
+header = true
+mobileHeader = true
+
+# Only English - disable other languages
+[languages]
+[languages.en]
+disabled = false
+languageCode = 'en-gb'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Hareesh Kanchanepally'
+weight = 0
+
+# Main navigation menu
+[languages.en.menus]
+[[languages.en.menus.header]]
+name = "Now"
+URL = "/now"
+weight = 1
+
+[[languages.en.menus.header]]
+name = "Ventures"
+URL = "/ventures"
+weight = 2
+
+[[languages.en.menus.header]]
+name = "Work"
+URL = "/work"
+weight = 3
+
+[[languages.en.menus.header]]
+name = "Notes"
+URL = "/notes"
+weight = 4
+
+[[languages.en.menus.header]]
+name = "About"
+URL = "/about"
+weight = 5
+
+[[languages.en.menus.header]]
+pre = "email"
+name = "Contact"
+URL = "mailto:kanchanepally@gmail.com"
+weight = 6
+
+# Footer menu
+[[languages.en.menus.footer]]
+name = "Now"
+URL = "/now"
+weight = 1
+
+[[languages.en.menus.footer]]
+name = "Ventures"
+URL = "/ventures"
+weight = 2
+
+[[languages.en.menus.footer]]
+name = "About"
+URL = "/about"
+weight = 3
+
+[[languages.en.menus.footer]]
+name = "LinkedIn"
+URL = "https://www.linkedin.com/in/hareesh-kanchanepally/"
+weight = 4
+
+[[languages.en.menus.footer]]
+name = "GitHub"
+URL = "https://github.com/kanchanepally"
+weight = 5
+
+# Disable Spanish and French
+[languages.es]
+disabled = true
+
+[languages.fr]
+disabled = true
+
+# Plugins
+[params.plugins]
+
+# CSS Plugins
+[[params.plugins.css]]
+URL = "css/custom.css"
+[[params.plugins.css]]
+URL = "css/adritian-icons.css"
+[[params.plugins.css]]
+URL = "css/bootstrap-print.css"
+
+# JS Plugins
+[[params.plugins.js]]
+URL = "js/rad-animations.js"
+[[params.plugins.js]]
+URL = "js/sticky-header.js"
+[[params.plugins.js]]
+URL = "js/library/fontfaceobserver.js"
+
+# SCSS Plugins
+[[params.plugins.scss]]
+URL = "scss/adritian.scss"
+
+# Theme/color style 
+[params.colorTheme]
+# Allow automatic theme selection (light/dark based on system preference)
+
+[params.colorTheme.selector.disable]
+footer = false
+header = false
+mobileHeader = false
+
+# Page transition settings
+[params.pageTransition]
+enabled = true
+
+# Blog settings (for Notes section)
+[params.blog]
+layout = "sidebar-right"
+sidebarWidth = "25"
+narrowContent = true
+showCategories = true
+showRecentPosts = true
+recentPostCount = 5
+listStyle = "summary"
+featured_sort_by_weight = true
+featured_sort_by_date = false
+
+[params.experience]
+showJobCard = true
+
+# Performance optimizations
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    lineNos = false
+    style = "monokai"
+
+[imaging]
+  resampleFilter = "Lanczos"
+  quality = 85
+  anchor = "Smart"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepDefaultAttrVals = true
+      keepWhitespace = false
+    [minify.tdewolff.css]
+      precision = 0
+    [minify.tdewolff.js]
+      precision = 0
