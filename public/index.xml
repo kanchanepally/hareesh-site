@@ -6,14 +6,82 @@
 &lt;p&gt;An early-stage hardware venture focused on true digital sovereignty - giving individuals complete ownership and control of their digital lives.&lt;/p&gt;
 &lt;h3 id="the-vision"&gt;The Vision&lt;/h3&gt;
 &lt;p&gt;In a world where our data is constantly extracted, analyzed, and monetized by corporations and governments, we&amp;rsquo;ve lost agency over our digital selves. Current &amp;ldquo;privacy&amp;rdquo; solutions are bandaids on a fundamentally extractive system.&lt;/p&gt;
-&lt;p&gt;This project explores hardware-based approaches to genuine digital autonomy - infrastructure that puts individuals back in control.&lt;/p&gt;</description></item><item><title>Hareesh Kanchanepally</title><link>http://localhost:1313/home/home/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;h1 id="hareesh-kanchanepally"&gt;Hareesh Kanchanepally&lt;/h1&gt;
-&lt;h2 id="portfolio-director--founder--expert-generalist"&gt;Portfolio Director | Founder | Expert Generalist&lt;/h2&gt;
-&lt;p&gt;Building digital sovereignty tools and enabling parents in the digital age.&lt;/p&gt;
-&lt;p&gt;Currently building &lt;strong&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;MyDigitAlly&lt;/a&gt;&lt;/strong&gt; (edtech startup) and exploring a stealth hardware project focused on digital sovereignty.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id="about-me"&gt;About Me&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a Portfolio Director, founder, and builder focused on creating tools that empower people in the digital age.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;By Day:&lt;/strong&gt; Leading product portfolios in agile delivery environments, focusing on prioritization, strategy, and rapid execution.&lt;/p&gt;</description></item><item><title>What I'm Doing Now</title><link>http://localhost:1313/now_page/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/now_page/</guid><description>&lt;p&gt;&lt;em&gt;Last updated: November 2024&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This project explores hardware-based approaches to genuine digital autonomy - infrastructure that puts individuals back in control.&lt;/p&gt;</description></item><item><title>Hareesh Kanchanepally</title><link>http://localhost:1313/home/home/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
+ &lt;div id="main-content"&gt;
+ 
+
+
+ 
+
+ &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
+ &lt;h1 class="display-1"&gt;
+ Hi, I&amp;#39;m Hareesh
+ &lt;/h1&gt;
+ &lt;h2 class="display-5"&gt;
+ &lt;span&gt;Technology Portfolio Director | Product Builder | Founder&lt;/span&gt;
+ &lt;/h2&gt;
+ &lt;div class="lead"&gt;
+ Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night.
+ &lt;/div&gt;
+ 
+ &lt;/div&gt;
+ &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class=""&gt;
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/img/profile_hu_bfaebcc5b337b3b8.webp 1x, http://localhost:1313/img/profile_hu_a9a21006cf18d860.webp 2x" type="image/webp" /&gt;
+ &lt;source srcset="http://localhost:1313/img/profile_hu_aac3cac9e02f2f8c.jpg 1x, http://localhost:1313/img/profile_hu_157b6b91707a779b.jpg 2x" type="image/jpeg"&gt;
+
+ &lt;img
+ width="400"
+ height="500"
+ class="lozad img-responsive "
+ data-src="http://localhost:1313/img/profile_hu_aac3cac9e02f2f8c.jpg"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ /&gt;
+ &lt;/picture&gt;
+
+
+
+
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+
+
+ &lt;div class="row platform-links"&gt;
+ &lt;div class="col-12"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+&lt;/section&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Currently:&lt;/strong&gt; Launching &lt;strong&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;MyDigitAlly&lt;/a&gt;&lt;/strong&gt; (edtech startup for parents) and exploring hardware solutions for digital sovereignty.&lt;/p&gt;</description></item><item><title>What I'm Doing Now</title><link>http://localhost:1313/now/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/now/</guid><description>&lt;p&gt;&lt;em&gt;Last updated: November 2024&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id="current-focus"&gt;Current Focus&lt;/h2&gt;
 &lt;h3 id="building-mydigitally"&gt;Building MyDigitAlly&lt;/h3&gt;
 &lt;p&gt;Live edtech startup helping non-tech parents navigate their kids&amp;rsquo; digital world with confidence. We&amp;rsquo;ve launched:&lt;/p&gt;
@@ -25,7 +93,7 @@
 &lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Active, growing community of parents&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;Visit MyDigitAlly →&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id="exploring-stealth-hardware-project"&gt;Exploring Stealth Hardware Project&lt;/h3&gt;
-&lt;p&gt;Early-stage hardware venture focused on digital sovereignty and data ownership. Building the infrastructure for genuine digital autonomy.&lt;/p&gt;</description></item><item><title>About</title><link>http://localhost:1313/about_page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about_page/</guid><description>&lt;h2 id="expert-generalist"&gt;Expert Generalist&lt;/h2&gt;
+&lt;p&gt;Early-stage hardware venture focused on digital sovereignty and data ownership. Building the infrastructure for genuine digital autonomy.&lt;/p&gt;</description></item><item><title>About</title><link>http://localhost:1313/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/about/</guid><description>&lt;h2 id="expert-generalist"&gt;Expert Generalist&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m a Portfolio Director, founder, and builder focused on creating tools that empower people in the digital age.&lt;/p&gt;
 &lt;h3 id="what-i-do"&gt;What I Do&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;By Day:&lt;/strong&gt; I lead product portfolios in agile delivery environments, focusing on prioritization, strategy, and rapid execution. My role centers on getting the right things delivered quickly - balancing stakeholder needs, technical constraints, and business goals.&lt;/p&gt;

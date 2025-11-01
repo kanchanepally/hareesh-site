@@ -1,9 +1,9 @@
-/* Hide the demo branding and show site title */
-.navbar-brand {
-    font-size: 1.5rem;
-    font-weight: 700;
+.home-container {
+  padding-top: 70px;
 }
 
-.navbar-brand::before {
-    content: "Hareesh Kanchanepally";
+@media (min-width: 968px) {
+    .rad-showcase {
+        min-height: auto;
+    }
 }

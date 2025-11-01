@@ -1,5 +1,8 @@
 - id: "logo_text1"
-  translation: "Hareesh"
+  translation: "Hareesh "
 
 - id: "logo_text2"
   translation: "Kanchanepally"
+
+- id: "footer_notice"
+  translation: ""
