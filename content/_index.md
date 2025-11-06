@@ -1,26 +1,12 @@
 ---
 title: "Hareesh Kanchanepally"
-description: "Portfolio Director | Founder | Expert Generalist"
 ---
-
 ### Portfolio Director | Founder | Expert Generalist
 
-Building digital sovereignty tools and enabling parents in the digital age.
+I lead technology portfolios by day and build products by night.
 
-Currently building **[MyDigitAlly](https://www.mydigitally.co.uk)** (EdTech startup) and exploring a stealth hardware project focused on digital sovereignty.
+Currently: **[MyDigitAlly](https://mydigitally.co.uk)** (AI-powered edtech for parents) and a hardware project exploring digital sovereignty.
 
-### What I Do
+I write about product development, technology portfolio management, and building with modern AI. Still figuring most of it out.
 
-**By Day:** Leading product portfolios in agile delivery environments, focusing on prioritization, strategy, and rapid execution.
-
-**By Night:** Building ventures at the intersection of technology, education, and digital sovereignty.
-
-### Current Projects
-
-**MyDigitAlly** - Empowering non-tech parents to confidently navigate their kids' digital world with research-based insights and AI-powered learning tools.
-
-**Stealth Hardware Project** - Early-stage exploration of hardware solutions for digital sovereignty. Public reveal planned for early 2026.
-
----
-
-[What I'm doing now →](/now) | [View my ventures →](/ventures) | [Read my notes →](/notes)
+[Now →](/now) | [Ventures →](/ventures) | [Notes →](/notes) | [About →](/about)

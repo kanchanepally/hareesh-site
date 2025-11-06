@@ -62,6 +62,23 @@ title = 'Hareesh Kanchanepally'
 description = 'Portfolio Director | Founder | Expert Generalist - Building digital sovereignty tools and enabling parents in the digital age'
 images = ['/img/og-img.png']
 
+[[params.menu]]
+    name = "Now"
+    url = "/now"
+[[params.menu]]
+    name = "Ventures"
+    url = "/ventures"
+[[params.menu]]
+    name = "Work"
+    url = "/work"
+[[params.menu]]
+    name = "Notes"
+    url = "/notes"
+[[params.menu]]
+    name = "About"
+    url = "/about"
+
+
 # Customize which sections appear on homepage - we'll keep it simple for now
 sections = [
   "showcase",
@@ -109,65 +126,6 @@ languageDirection = 'ltr'
 languageName = 'English'
 title = 'Hareesh Kanchanepally'
 weight = 0
-
-# Main navigation menu
-[languages.en.menus]
-[[languages.en.menus.header]]
-name = "Now"
-URL = "/now"
-weight = 1
-
-[[languages.en.menus.header]]
-name = "Ventures"
-URL = "/ventures"
-weight = 2
-
-[[languages.en.menus.header]]
-name = "Work"
-URL = "/work"
-weight = 3
-
-[[languages.en.menus.header]]
-name = "Notes"
-URL = "/notes"
-weight = 4
-
-[[languages.en.menus.header]]
-name = "About"
-URL = "/about"
-weight = 5
-
-[[languages.en.menus.header]]
-pre = "email"
-name = "Contact"
-URL = "mailto:kanchanepally@gmail.com"
-weight = 6
-
-# Footer menu
-[[languages.en.menus.footer]]
-name = "Now"
-URL = "/now"
-weight = 1
-
-[[languages.en.menus.footer]]
-name = "Ventures"
-URL = "/ventures"
-weight = 2
-
-[[languages.en.menus.footer]]
-name = "About"
-URL = "/about"
-weight = 3
-
-[[languages.en.menus.footer]]
-name = "LinkedIn"
-URL = "https://www.linkedin.com/in/hareesh-kanchanepally/"
-weight = 4
-
-[[languages.en.menus.footer]]
-name = "GitHub"
-URL = "https://github.com/kanchanepally"
-weight = 5
 
 # Disable Spanish and French
 [languages.es]

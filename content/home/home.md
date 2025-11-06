@@ -1,39 +1,17 @@
---- 
+---
 title: "Hareesh Kanchanepally"
-date: 2024-11-01
-type: "home"
 ---
 
-# Hi, I'm Hareesh
+# Hareesh Kanchanepally
 
-## Technology Portfolio Director | Product Builder | Founder
+## Portfolio Director | Founder | Expert Generalist
 
-Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night.
+I lead technology portfolios and product development in agile environments, focusing on getting the right things delivered quickly. Outside work, I build tools that give people more agency in the digital world.
 
-**Currently:** Launching **[MyDigitAlly](https://www.mydigitally.co.uk)** (edtech startup for parents) and exploring hardware solutions for digital sovereignty.
+Currently building **[MyDigitAlly](https://mydigitally.co.uk)** - an AI-powered platform helping parents navigate their kids' digital lives with confidence. Also exploring hardware solutions for digital sovereignty (launching 2026).
 
-**Focus areas:** Portfolio management & execution • Product development • Agile delivery • EdTech • Digital sovereignty
+I believe in building in public, shipping imperfectly, and the portfolio approach to both work and life. This site is where I share what I'm learning.
 
----
+**What you'll find here:** Product development thinking, lessons from building MyDigitAlly, portfolio management approaches, and thoughts on digital sovereignty.
 
-## What I'm Building
-
-**[MyDigitAlly](https://www.mydigitally.co.uk)** - Empowering non-tech parents with research-based insights and AI-powered learning tools to confidently navigate their kids' digital world.
-
-**Stealth Hardware Project** - Early-stage digital sovereignty hardware. Public reveal early 2026.
-
-[View all ventures →](/ventures) | [Read my notes →](/notes)
-
----
-
-<a name="contact"></a>
-
-## Get in Touch
-
-Working on something interesting in edtech, digital sovereignty, or agile product delivery? Let's connect.
-
-**Email:** [kanchanepally@gmail.com](mailto:kanchanepally@gmail.com)  
-**LinkedIn:** [linkedin.com/in/hareesh-kanchanepally](https://www.linkedin.com/in/hareesh-kanchanepally/)  
-**GitHub:** [github.com/kanchanepally](https://github.com/kanchanepally)
-
-[What I'm doing now →](/now) | [More about me →](/about)
+[What I'm doing now →](/now) | [My ventures →](/ventures) | [Recent notes →](/notes)
