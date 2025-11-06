@@ -1,7 +1,7 @@
 baseURL = "https://hareesh.co/"
 title = "Hareesh Kanchanepally"
 languageCode = "en-gb"
-theme = "adritian"
+theme = "typo"
 
 # Exclude footer section from generating list pages (index.html and index.xml)
 [outputs]
@@ -183,6 +183,7 @@ disabled = true
 [[params.plugins.css]]
 URL = "css/custom.css"
 [[params.plugins.css]]
+URL = "css/adritian-icons.css"
 [[params.plugins.css]]
 URL = "css/bootstrap-print.css"
 

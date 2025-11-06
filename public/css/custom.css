@@ -1,9 +1,79 @@
-.home-container {
-  padding-top: 70px;
+/* AGGRESSIVE: Reduce all top padding/margin on main content */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-@media (min-width: 968px) {
-    .rad-showcase {
-        min-height: auto;
-    }
+main, 
+.main-content,
+body > main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Reduce header bottom margin */
+header,
+.header,
+.navbar-wrapper {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Target the home page hero section specifically */
+.home .showcase-section,
+body.home section:first-of-type,
+.page-home section:first-of-type {
+    padding-top: 0 !important; /* Changed from 1rem to 0 */
+    margin-top: 0 !important;
+}
+
+/* Reduce all section padding */
+section {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+}
+
+/* Move image container to the right */
+.showcase-section .row > div:last-child,
+.hero-image-container,
+.showcase-section img {
+    text-align: right !important;
+    padding-left: 5rem !important; /* Increased from 3rem to 5rem */
+    padding-right: 0 !important;
+}
+
+/* Image positioning */
+.showcase-section img {
+    margin-left: auto !important;
+    margin-right: -1rem !important; /* Added negative margin to push further right */
+    float: right !important;
+    display: none !important; /* Hide the image */
+}
+
+/* If the theme uses container classes */
+.container,
+.container-fluid {
+    padding-top: 0 !important;
+}
+
+/* Hide the showcase background image */
+.rad-showcase__bg {
+    display: none !important;
+}
+
+/* Hide the profile image on the homepage */
+.home .showcase-section .showcase-image {
+  display: none !important;
+}
+
+/* Allow the text in the showcase section to span the full width */
+.showcase-section .row > div:first-child {
+  width: 100%;
+}
+
+/* Force the showcase text to span the full width */
+.showcase-section .row > div {
+  width: 100% !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }

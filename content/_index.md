@@ -3,11 +3,11 @@ title: "Hareesh Kanchanepally"
 description: "Portfolio Director | Founder | Expert Generalist"
 ---
 
-## Portfolio Director | Founder | Expert Generalist
+### Portfolio Director | Founder | Expert Generalist
 
 Building digital sovereignty tools and enabling parents in the digital age.
 
-Currently building **[MyDigitAlly](https://www.mydigitally.co.uk)** (edtech startup) and exploring a stealth hardware project focused on digital sovereignty.
+Currently building **[MyDigitAlly](https://www.mydigitally.co.uk)** (EdTech startup) and exploring a stealth hardware project focused on digital sovereignty.
 
 ### What I Do
 

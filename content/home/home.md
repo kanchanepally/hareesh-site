@@ -4,15 +4,11 @@ date: 2024-11-01
 type: "home"
 ---
 
-{{< showcase-section 
-    title="Hi, I'm Hareesh" 
-    subtitle="Technology Portfolio Director | Product Builder | Founder"
-    description="Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night."
-    imgSrc="img/profile.jpg"
-    imgWidth="400"
-    cta_text="Get in Touch"
-    cta_url="#contact"
-/>}}
+# Hi, I'm Hareesh
+
+## Technology Portfolio Director | Product Builder | Founder
+
+Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night.
 
 **Currently:** Launching **[MyDigitAlly](https://www.mydigitally.co.uk)** (edtech startup for parents) and exploring hardware solutions for digital sovereignty.
 

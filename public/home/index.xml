@@ -1,76 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Hareesh Kanchanepally</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on Hareesh Kanchanepally</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hareesh Kanchanepally</title><link>http://localhost:1313/home/home/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down"&gt;
- &lt;div id="main-content"&gt;
- 
-
-
- 
-
- &lt;div class="showcase-section row flex-column-reverse flex-md-row rad-fade-down rad-waiting rad-animate"&gt;
- &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6"&gt;
- &lt;h1 class="display-1"&gt;
- Hi, I&amp;#39;m Hareesh
- &lt;/h1&gt;
- &lt;h2 class="display-5"&gt;
- &lt;span&gt;Technology Portfolio Director | Product Builder | Founder&lt;/span&gt;
- &lt;/h2&gt;
- &lt;div class="lead"&gt;
- Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night.
- &lt;/div&gt;
- 
- &lt;/div&gt;
- &lt;div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 profile-image"&gt;
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
- 
- 
-
-
- &lt;picture class=""&gt;
- 
- 
-
- &lt;source srcset="http://localhost:1313/img/profile_hu_bfaebcc5b337b3b8.webp 1x, http://localhost:1313/img/profile_hu_a9a21006cf18d860.webp 2x" type="image/webp" /&gt;
- &lt;source srcset="http://localhost:1313/img/profile_hu_aac3cac9e02f2f8c.jpg 1x, http://localhost:1313/img/profile_hu_157b6b91707a779b.jpg 2x" type="image/jpeg"&gt;
-
- &lt;img
- width="400"
- height="500"
- class="lozad img-responsive "
- data-src="http://localhost:1313/img/profile_hu_aac3cac9e02f2f8c.jpg"
- alt=''
- src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
- loading="lazy"
- decoding="async"
- /&gt;
- &lt;/picture&gt;
-
-
-
-
- &lt;/div&gt;
-
- &lt;/div&gt;
-
-
- &lt;div class="row platform-links"&gt;
- &lt;div class="col-12"&gt;&lt;/div&gt;
- &lt;/div&gt;
- &lt;/div&gt;
- 
-&lt;/section&gt;
-
-
-&lt;p&gt;&lt;strong&gt;Currently:&lt;/strong&gt; Launching &lt;strong&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;MyDigitAlly&lt;/a&gt;&lt;/strong&gt; (edtech startup for parents) and exploring hardware solutions for digital sovereignty.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on Hareesh Kanchanepally</title><link>http://localhost:1313/home/</link><description>Recent content in Homes on Hareesh Kanchanepally</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml"/><item><title>Hareesh Kanchanepally</title><link>http://localhost:1313/home/home/</link><pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;h1 class="heading" id="hi-im-hareesh"&gt;
+ Hi, I&amp;rsquo;m Hareesh
+ &lt;a class="anchor" href="#hi-im-hareesh"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 class="heading" id="technology-portfolio-director--product-builder--founder"&gt;
+ Technology Portfolio Director | Product Builder | Founder
+ &lt;a class="anchor" href="#technology-portfolio-director--product-builder--founder"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Leading product portfolios and agile delivery by day. Building edtech and digital sovereignty tools by night.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Currently:&lt;/strong&gt; Launching &lt;strong&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;MyDigitAlly&lt;/a&gt;&lt;/strong&gt; (edtech startup for parents) and exploring hardware solutions for digital sovereignty.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Focus areas:&lt;/strong&gt; Portfolio management &amp;amp; execution • Product development • Agile delivery • EdTech • Digital sovereignty&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 class="heading" id="what-im-building"&gt;
+ What I&amp;rsquo;m Building
+ &lt;a class="anchor" href="#what-im-building"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.mydigitally.co.uk"&gt;MyDigitAlly&lt;/a&gt;&lt;/strong&gt; - Empowering non-tech parents with research-based insights and AI-powered learning tools to confidently navigate their kids&amp;rsquo; digital world.&lt;/p&gt;</description></item></channel></rss>
