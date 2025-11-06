@@ -1,12 +1,23 @@
 ---
 title: "Hareesh Kanchanepally"
 ---
-### Portfolio Director | Founder | Expert Generalist
+### Portfolio Director | Product Builder | Founder
 
-I lead technology portfolios by day and build products by night.
+I [lead technology portfolios](/work) by day and [build products](/ventures) by night.
 
-Currently: **[MyDigitAlly](https://mydigitally.co.uk)** (AI-powered edtech for parents) and a hardware project exploring digital sovereignty.
+Currently building **[MyDigitAlly](https://mydigitally.co.uk)** - an AI-powered platform helping parents navigate their kids' digital lives. 
 
-I write about product development, technology portfolio management, and building with modern AI. Still figuring most of it out.
+I am also exploring hardware solutions for digital sovereignty.
 
-[Now →](/now) | [Ventures →](/ventures) | [Notes →](/notes) | [About →](/about)
+**I write about:** Product development • Portfolio management • Building with AI • Digital sovereignty • The reality of founder + full-time job life
+
+---
+
+**Want to learn more?**
+
+→ [See what I'm working on right now](/now)  
+→ [Read my latest thinking](/notes)  
+→ [Learn about my background](/about)
+
+**Let's connect:**  
+[Email](mailto:kanchanepally@gmail.com) • [LinkedIn](https://linkedin.com/in/hareesh-kanchanepally) • [GitHub](https://github.com/kanchanepally)
