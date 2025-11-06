@@ -61,6 +61,7 @@ target = "assets/css/bootstrap-print.css"
 title = 'Hareesh Kanchanepally'
 description = 'Portfolio Director | Founder | Expert Generalist - Building digital sovereignty tools and enabling parents in the digital age'
 images = ['/img/og-img.png']
+footerContent = ""
 
 [[params.menu]]
     name = "Now"
