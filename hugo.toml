@@ -79,6 +79,12 @@ footerContent = " "
     name = "about"
     url = "/about"
 
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
 
 # Customize which sections appear on homepage - we'll keep it simple for now
 sections = [

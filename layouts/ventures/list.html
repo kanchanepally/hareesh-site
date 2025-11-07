@@ -3,9 +3,14 @@
     {{ partial "breadcrumbs.html" . }}
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    <ul>
-        {{ range .Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <ul style="list-style: none; padding-left: 0;">
+        {{ $pages := where .Site.Pages "Section" "ventures" }}
+        {{ $pages = where $pages "Kind" "page" }}
+        {{ range $pages.ByWeight }}
+        <li class="py-3 my-3">
+            <h4><a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a></h4>
+            <p class="text-muted mb-0">{{ .Params.description }}</p>
+        </li>
         {{ end }}
     </ul>
 </div>

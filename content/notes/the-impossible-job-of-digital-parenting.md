@@ -2,6 +2,7 @@
 title: "The Impossible Job of Digital Parenting"
 date: 2025-11-06
 description: "Why modern parents feel like they're failing at technology, and a more hopeful path forward."
+categories: [Digital Parenting]
 ---
 
 ## The Knowledge Gap

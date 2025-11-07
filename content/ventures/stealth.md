@@ -2,6 +2,7 @@
 title: "Digital Sovereignty Hardware Project"
 date: 2024-11-06
 weight: 2
+draft: false
 description: "Hardware solutions for true digital autonomy"
 ---
 ## Building Infrastructure for Digital Freedom

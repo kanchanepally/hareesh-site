@@ -1,12 +1,15 @@
 ---
 title: "Digital Sovereignty in an Uncertain World"
 date: 2025-11-06
+draft: false
 description: "Recent cloud outages and the quantum threat highlight the urgent need for true digital ownership."
 ---
 
 ## The Illusion of Control
 
 We live in a world of digital convenience, but recent events have exposed the fragility of the infrastructure that underpins our online lives. The massive AWS outage that took down a significant portion of the internet was a stark reminder that we've entrusted our digital existence to a handful of centralized platforms. When they fail, we're left powerless.
+
+<img src="sovereignty-concept.jpg" alt="Abstract concept of digital sovereignty" style="float: right; margin: 0 0 1rem 1.5rem; width: 35%; min-width: 250px; border-radius: 4px;">
 
 This dependence creates an illusion of control. We believe our data is safe, our conversations are private, and our digital lives are our own. But the reality is, we're building our digital homes on rented land, and the landlord can change the terms at any moment.
 

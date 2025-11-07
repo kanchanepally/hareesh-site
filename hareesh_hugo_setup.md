@@ -348,49 +348,69 @@ git push -u origin main
 
 ## Part 4: Obsidian Publishing Workflow
 
-### Create Publishing Vault Structure
+This workflow uses "Page Bundles," a powerful Hugo feature that keeps a post and its images together, making content much easier to manage.
 
-In your Obsidian main vault, create a template:
+### 1. In Obsidian: Create a Post Folder
 
-**Templates/publish-post.md:**
-```markdown
----
-title: "{{title}}"
-date: {{date:YYYY-MM-DD}}
-draft: false
-categories: [""]
-tags: [""]
----
+Instead of creating a single note file, your new process for each post is to **create a folder**.
 
-[Content here]
+Inside your Obsidian vault, create a new folder for the post. Inside that folder, create your note and name it **`index.md`**. As you write, place all images for that post in the very same folder.
+
+Your structure in Obsidian should look like this:
+```
+/My Obsidian Vault/
+└── A New Post Title/
+    ├── index.md
+    └── an-image.jpg
 ```
 
-### Publishing Process
+### 2. In `index.md`: Add Front Matter and Content
 
-**When you want to publish a note:**
+Edit your `index.md` file. Ensure it has the correct front matter. The `draft: false` line is important to make sure the post is published.
 
-1. **In Obsidian:** Write your note
-2. **Refine:** Add frontmatter, clean up for public
-3. **Copy to Hugo:** 
-   ```bash
-   # Navigate to your hareesh-site folder
-   cd ~/projects/hareesh-site
-   
-   # Create new post
-   hugo new notes/2024-10-30-my-post-title.md
-   
-   # Or manually copy your markdown file to:
-   # content/notes/2024-10-30-my-post-title.md
-   ```
-4. **Commit & Push:**
-   ```bash
-   git add .
-   git commit -m "New post: My Post Title"
-   git push
-   ```
-5. **Automatic:** Netlify detects push → builds → deploys
+```markdown
+---
+title: "My New Post Title"
+date: 2025-11-08
+draft: false
+categories: ["Some Category"]
+---
 
-**Your post is live in ~60 seconds.**
+This is the beginning of my post...
+```
+
+### 3. To Publish: Copy the Entire Folder
+
+When your post is ready, copy the entire post folder (e.g., `A New Post Title/`) from your Obsidian vault into your Hugo project.
+
+The destination should be inside a year-based folder for good organization:
+`content/notes/2025/A New Post Title/`
+
+### 4. Advanced Layout: Floating an Image
+
+If you want an image to float to the right with text wrapping around it, you cannot use the standard Markdown `![alt](src)` syntax. Instead, you must use a raw HTML `<img>` tag.
+
+Place this code in your `index.md` file where you want the image to appear (usually after the first paragraph):
+
+```html
+<img src="your-image-name.jpg" alt="A descriptive alt text" style="float: right; margin: 0 0 1rem 1.5rem; width: 35%; min-width: 250px; border-radius: 4px;">
+```
+
+**How to customize the image layout:**
+
+You can change the values in the `style` attribute to adjust the look:
+*   `float: right;`: Aligns the image to the right.
+*   `margin: 0 0 1rem 1.5rem;`: Sets the margin in the order of `top`, `right`, `bottom`, `left`. The `1.5rem` left margin creates space between the image and the wrapping text. Change the first `0` to move the image down (e.g., `0.5rem`).
+*   `width: 35%;`: Makes the image take up 35% of the available content width. Increase or decrease this to make the image larger or smaller.
+*   `min-width: 250px;`: Ensures the image doesn't become too small on narrow screens.
+
+### 5. Final Check and Deploy
+
+Before deploying, always test locally to make sure everything looks correct:
+```bash
+hugo server -D
+```
+Once you are happy, commit and push your changes to deploy the new post via Vercel.
 
 ---
 

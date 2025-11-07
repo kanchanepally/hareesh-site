@@ -2,8 +2,26 @@
 <div class="list-container">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    {{ range .Pages }}
-        {{ partial "post-entry.html" . }}
+    <ul style="list-style: none; padding-left: 0;">
+    {{ $pages := where .Site.Pages "Section" "notes" }}
+    {{ $pages = where $pages "Kind" "page" }}
+    {{ range $pages.ByDate.Reverse }}
+        <li style="display: flex; flex-wrap: nowrap; align-items: baseline; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+            <div class="text-muted small" style="flex: 0 0 110px; font-family: monospace;">
+                {{ .Date.Format "02 Jan 2006" }}
+            </div>
+            <div style="flex: 1 1 auto; margin: 0 1rem;">
+                <a href="{{ .Permalink }}" class="text-decoration-none">{{ .Title }}</a>
+            </div>
+            <div class="text-muted small" style="flex: 0 0 200px; text-align: left; font-family: monospace; text-transform: uppercase;">
+                {{ with .Params.categories }}
+                    {{ range $index, $value := . }}
+                        {{ if $index }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="text-muted text-decoration-none">{{ . }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </li>
     {{ end }}
+    </ul>
 </div>
 {{ end }}
