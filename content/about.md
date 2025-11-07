@@ -3,8 +3,6 @@ title: "About"
 type: "page"
 ---
 
-## Expert Generalist
-
 I'm a Portfolio Director, founder, and builder focused on creating tools that empower people in the digital age.
 
 ### What I Do

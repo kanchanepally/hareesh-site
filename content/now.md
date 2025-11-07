@@ -1,6 +1,5 @@
 ---
 title: "What I'm Doing Now"
-date: 2024-11-01
 type: "page"
 ---
 

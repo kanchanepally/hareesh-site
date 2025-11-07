@@ -61,22 +61,22 @@ target = "assets/css/bootstrap-print.css"
 title = 'Hareesh Kanchanepally'
 description = 'Portfolio Director | Founder | Expert Generalist - Building digital sovereignty tools and enabling parents in the digital age'
 images = ['/img/og-img.png']
-footerContent = ""
+footerContent = " "
 
 [[params.menu]]
-    name = "Now"
+    name = "now"
     url = "/now"
 [[params.menu]]
-    name = "Ventures"
+    name = "ventures"
     url = "/ventures"
 [[params.menu]]
-    name = "Work"
+    name = "work"
     url = "/work"
 [[params.menu]]
-    name = "Notes"
+    name = "notes"
     url = "/notes"
 [[params.menu]]
-    name = "About"
+    name = "about"
     url = "/about"
 
 
@@ -185,6 +185,9 @@ featured_sort_by_date = false
 
 [params.experience]
 showJobCard = true
+
+[params.breadcrumbs]
+enabled = false
 
 # Performance optimizations
 [markup]
