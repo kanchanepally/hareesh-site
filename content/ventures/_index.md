@@ -3,8 +3,6 @@ title: "Ventures"
 description: "Building tools for digital empowerment"
 ---
 
-I believe in building things that give people more agency in the digital world. 
-
-Currently focused on two paths: empowering parents through education (MyDigitAlly) and enabling digital sovereignty through hardware (stealth project launching 2026).
+I believe in building tools that give people more agency in the digital world. My projects generally follow two paths: empowerment through knowledge and sovereignty through infrastructure.
 
 ## Current Projects

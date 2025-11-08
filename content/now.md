@@ -3,7 +3,9 @@ title: "What I'm Doing Now"
 type: "page"
 ---
 
-*Last updated: November 2024*
+This page captures my current focus outside of my day job, mostly on nights and weekends.
+
+*Last updated: November 2025*
 
 ## Current Focus
 

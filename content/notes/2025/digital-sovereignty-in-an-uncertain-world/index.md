@@ -3,6 +3,7 @@ title: "Digital Sovereignty in an Uncertain World"
 date: 2025-11-06
 draft: false
 description: "Recent cloud outages and the quantum threat highlight the urgent need for true digital ownership."
+categories: [Digital Sovereignty, Innovation]
 ---
 
 ## The Illusion of Control

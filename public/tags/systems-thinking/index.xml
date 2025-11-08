@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Systems-Thinking on Hareesh Kanchanepally</title><link>http://localhost:1313/tags/systems-thinking/</link><description>Recent content in Systems-Thinking on Hareesh Kanchanepally</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/systems-thinking/index.xml" rel="self" type="application/rss+xml"/><item><title>Navigating the Spectrum of Collaboration in Product Development (Building on John Cutler's Insights)</title><link>http://localhost:1313/notes/2024/01/2024-01-06-navigating-the-spectrum-of-collaboration-in-product-development-building-on-john-cutlers-insights/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/notes/2024/01/2024-01-06-navigating-the-spectrum-of-collaboration-in-product-development-building-on-john-cutlers-insights/</guid><description>&lt;p&gt;John Cutler&amp;rsquo;s insightful ideas on convergence modes (&lt;a href="https://cutlefish.substack.com/p/tbm-261-dependencies-in-faster-growing"&gt;Part 1&lt;/a&gt;, &lt;a href="https://cutlefish.substack.com/p/tbm-262-dependencies-in-faster-growing"&gt;Part 2&lt;/a&gt;, and &lt;a href="https://cutlefish.substack.com/p/tbm-264-dependencies-in-faster-growing?utm_source=profile&amp;amp;utm_medium=reader2"&gt;Part 3&lt;/a&gt;) in product development especially in handling dependencies effectively, offered a helpful perspective for understanding how collaboration styles affect project outcomes. John proposes four different modes/ways of working: Fully Embedded, Collaborative, Supportive, Transactional. And suggests that, to “make dependency management easier, you should ask yourself: &amp;ldquo;What type of working model SHOULD we use for this work?&amp;rdquo;. This struck a chord with me. In the past few years, especially in 2023, I personally experimented with two modes for two different projects: one project that integrated different skillsets into a single, unified, cross-functional, and fully embedded team, and the other that relied on transactional ways of working supported by a framework of project management processes. Based on this personal experience, I asked myself a question: if you decide on a particular mode of convergence at the outset of a project, do the different phases require a dynamic shift between full immersion and focused transactional interactions?&lt;/p&gt;</description></item><item><title>Employing System Thinking to Technical Programme Management</title><link>http://localhost:1313/notes/2023/03/2023-03-13-employing-system-thinking-to-technical-programme-management/</link><pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate><guid>http://localhost:1313/notes/2023/03/2023-03-13-employing-system-thinking-to-technical-programme-management/</guid><description>&lt;figure&gt;
+&lt;p&gt;&lt;a href="https://hareesh.co/wp-content/uploads/2024/01/pexels-photo-1472612.jpeg"&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=""&gt;
+
+ 
+ 
+ 
+ &lt;div class="img-container" style="--w: 1880; --h: 1253;"&gt;
+ &lt;img loading="lazy" alt="" src="http://localhost:1313/notes/2023/03/2023-03-13-employing-system-thinking-to-technical-programme-management/images/pexels-photo-1472612.jpeg" width="1880" height="1253"&gt;
+ &lt;/div&gt;
+ 
+ 
+
+ 
+&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;figcaption&gt;
+&lt;p&gt;Photo by Lina Mamone on &lt;a href="https://www.pexels.com/photo/lighted-city-during-night-1472612/"&gt;Pexels.com&lt;/a&gt;&lt;/p&gt;
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Embarking on the integration of WeChat Pay for our Chinese customers was not just a project; it was a riveting exploration of dependencies, interconnections, and the intricate dance of technology in a dynamic ecosystem. This journey demanded more than conventional project management—it required a masterclass in systems thinking. In this playbook, we unravel the saga and distil the lessons learned into actionable insights for fellow technology program managers.&lt;/p&gt;</description></item></channel></rss>

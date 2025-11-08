@@ -3,6 +3,9 @@ title = "Hareesh Kanchanepally"
 languageCode = "en-gb"
 theme = "typo"
 
+[pagination]
+  pagerSize = 1000
+
 # Exclude footer section from generating list pages (index.html and index.xml)
 [outputs]
   page = ["HTML"]
