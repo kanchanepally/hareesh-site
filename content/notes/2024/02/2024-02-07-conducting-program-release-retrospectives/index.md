@@ -2,7 +2,7 @@
 title: "Conducting Program/Release retrospectives"
 date: 2024-02-07
 draft: false
-category: [Strategic-execution]
+categories: ["Strategic-execution"]
 tags: 
   - "agile"
   - "agile-project-management"
@@ -143,3 +143,4 @@ Once the retro is completed, use a SharePoint library or a common repository to 
 - **Stakeholder Satisfaction:** Consider surveys or ratings to gauge external perception.
 
 - **External Links & Resources**: Include relevant documentation, reports, and external resources associated with the project.
+

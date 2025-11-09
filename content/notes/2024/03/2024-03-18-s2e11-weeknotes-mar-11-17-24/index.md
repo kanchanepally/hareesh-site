@@ -2,7 +2,7 @@
 title: "S2E11 #Weeknotes Mar 11-17 '24"
 date: 2024-03-18
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "3-year-planning"
   - "agile"
@@ -62,3 +62,4 @@ Speaking of taking a plunge, swimming has become a real joy lately. I was a bit 
 One thing that keeps cropping up in these weekly reflections is the need for focus. I still feel like I'm running around like a [headless chicken](https://www.bbc.co.uk/news/magazine-34198390) sometimes, time just slipping through my fingers.
 
 **Alright, folks, eleven weeks in and I must be honest – is this working?** These #weeknotes and regular reflections keep circling back to the same themes – focus, taking a step back, intent, the whole shebang. Is it the timing, or am I just spinning my wheels here? Maybe I need to tweak the format, change the timing to Monday morning, or maybe there's something else entirely going on. What do you think? How can I make the most of these reflections?
+

@@ -2,7 +2,7 @@
 title: "Week 27 #Weeknotes: July 8 -14, 2024"
 date: 2024-07-15
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "agile"
   - "intentions"
@@ -36,3 +36,4 @@ This new regime, along with a minor unrelated procedure, gave me an excuse to in
 This week, I'll be conducting a 360-degree risk assessment of my portfolio and brainstorming mitigation strategies ahead of an LT workshop. On the personal front, I'll likely be ruminating on the joys (and challenges) of an 800-calorie diet!
 
 Let's see what the next week brings!
+

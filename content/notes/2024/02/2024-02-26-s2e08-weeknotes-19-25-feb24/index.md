@@ -2,7 +2,7 @@
 title: "S2E08 #Weeknotes 19-25 Feb'24"
 date: 2024-02-26
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "acculturation"
   - "agile"
@@ -63,3 +63,4 @@ This coming week marks the end of the 2nd month in 2024. WTF! Sorry, but that's 
 - Sharing the next post with technical programme managers on the [craft of execution](https://hareesh.co/tag/execution/).
 
 See you next week!
+

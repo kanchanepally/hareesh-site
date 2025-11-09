@@ -2,7 +2,7 @@
 title: "On Holding things lightly - Weeknotes: 16 - 22 Sep"
 date: 2024-09-23
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "delivery"
   - "intentions"
@@ -38,3 +38,4 @@ I acknowledge that it's how it is now. Or at least the week has been. Don't mist
 So, what am I going to do about it?
 
 Am not going to retire like the snake did, but hold all of that lightly. Engage in things as needed, be aware of what expectations that are driving my reactions Cultivate a present-moment awareness, and to loosen my hold a bit. Chill! Reframe the experiences instead of expectation-fuelled chore, but as enjoyable opportunities for self exploration and growth. Easy said and done, and there's a real chance all of this going to become another stick to beat myself with next week. I realise I have been self-critical, but I am going to be kind to myself. Not going to be passive or disengaged, but work to find balance between actively participating in life while also maintaining a sense of detachment.
+

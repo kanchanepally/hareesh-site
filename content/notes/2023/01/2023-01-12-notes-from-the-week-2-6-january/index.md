@@ -2,7 +2,7 @@
 title: "Notes from the week: 2-6 January"
 date: 2023-01-12
 draft: false
-categories: [Improved=self]
+categories: ["Improved-self"]
 tags: 
   - "agile"
   - "delivery"

@@ -2,7 +2,7 @@
 title: "S2E06 #Weeknotes 05-11 Feb'24"
 date: 2024-02-12
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "acculturation"
   - "assimilation"
@@ -42,3 +42,4 @@ The second week of February brings its own set of goals:
 **Join the Journey:**
 
 If you're a first-gen immigrant navigating your own journey or simply interested in exploring new perspectives, consider subscribing to [my newsletter](https://hareesh.substack.com?utm_source=navbar&utm_medium=web&r=cmhoq). I invite you to share your thoughts on integration, aspirations, or anything else that resonates with you. Let's learn and grow together!
+

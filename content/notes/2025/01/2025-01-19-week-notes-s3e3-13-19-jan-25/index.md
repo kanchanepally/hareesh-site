@@ -2,7 +2,7 @@
 title: "Week notes, S3E3: 13 - 19 Jan, 25"
 date: 2025-01-19
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "family"
   - "intentions"
@@ -48,3 +48,4 @@ On the flip side, my routines faltered. Running, journaling, and eating well all
 If Week 1 was about making space and Week 2 about laying foundations, this week was about finding balance in tension. And, hindsight. Not everything will go to plan. There will be moments of friction, misalignment, and even failure. The question is how you respond—whether you let the tension pull you apart or use it as a bridge to something stronger.
 
 Next week’s intention? **"Rebuilding Rhythm."**
+

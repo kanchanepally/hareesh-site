@@ -2,7 +2,7 @@
 title: "S2E10 #Weeknotes Mar 04-10 '24"
 date: 2024-03-11
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "agile"
   - "governance"
@@ -46,3 +46,4 @@ On a personal note, this week has been a time for (a similar) introspection. I'v
 So, I'm making a conscious effort to dial it back and focus on my core values and interests. It's about finding that balance between exploration and staying true to myself. As I look ahead to the coming weeks, I'm excited to keep this newfound clarity front and centre, both in my professional endeavours and in my personal life.
 
 Here's to a week of focus and growth ahead. See you on the other side!
+

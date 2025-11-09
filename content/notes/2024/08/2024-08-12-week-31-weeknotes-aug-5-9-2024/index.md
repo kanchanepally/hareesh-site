@@ -2,7 +2,7 @@
 title: "Week 31 #Weeknotes: Aug 5-9, 2024"
 date: 2024-08-12
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "agile"
   - "delivery"
@@ -53,3 +53,4 @@ Summer has started, and we're having fun. Enjoying the days: whether the sun's o
 It's hard to get back to work after holidays, but am super pumped with the insights from the leadership off-site, things to get through ahead of 2025 budget cycle, and oh yeah, writing a thing or two about the racist riots that the UK has seen in the last few days!
 
 Cheerio, see you next Monday!
+

@@ -2,7 +2,7 @@
 title: "S2E14 #Weeknotes Apr 01-07 '24"
 date: 2024-04-07
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "3-year-planning"
   - "agile"
@@ -61,3 +61,4 @@ This narrative enables us to see how risky is the portfolio and our attitudes to
 **Next week**, will see me doing a quarterly review, celebrating [Ugadi](https://en.wikipedia.org/wiki/Ugadi) (with our homemade [Ugadi pickle](https://www.indianhealthyrecipes.com/ugadi-recipes-andhra-festival-recipes/)) , [Songkran](https://en.wikipedia.org/wiki/Songkran_\(Thailand\)) (with homemade son-in-law eggs/_kai loug kheuh_), signing off on [Programme Management 101](https://hareesh.co/2024/01/21/managing-t-programme-managers/), and [creating space](https://www.forbes.com/sites/forbescoachescouncil/2021/09/13/the-art-of-creating-space-to-think-listen-and-respond/).
 
 See you on the other side!
+

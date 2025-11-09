@@ -2,7 +2,7 @@
 title: "Jan 2025 Summary | Monthnotes"
 date: 2025-02-03
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "monthnotes"
   - "reflections"
@@ -55,3 +55,4 @@ Finding joy and recreation in January was about appreciating small moments – n
 Overall, January was about awareness – recognizing patterns, acknowledging challenges, and appreciating the positives. February is about _action_ – taking small, deliberate steps in each area to build momentum, strengthen my foundations, and move closer to a more balanced and purposeful life. It’s not about perfection, it’s about progress, and about consistently checking in with the “wheel” to ensure a smoother ride.
 
 Onwards to February.
+

@@ -2,7 +2,7 @@
 title: "S2E09 #Weeknotes Feb 26-Mar 03, '24"
 date: 2024-03-04
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "acculturation"
   - "agile"
@@ -74,3 +74,4 @@ On the professional front, this week also provided opportunities for reflection.
 I'm finalising a couple of user guides for TPMs that I believe will be very helpful, and I'm excited to share the first one this week. Additionally, I've been invited to participate in shaping our organization's new structure. It's an exciting yet daunting prospect, and I'm eager to get started.
 
 See you next week!
+

@@ -2,7 +2,7 @@
 title: "S2E07 #Weeknotes 12-18 Feb'24"
 date: 2024-02-19
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "acculturation"
   - "assimilation"
@@ -40,3 +40,4 @@ That essentially brings me to what lays ahead for the third week of Feb:
 - Sharing the next post with technical programme managers on the [craft of execution](https://hareesh.co/tag/execution/).
 
 See you next week!
+

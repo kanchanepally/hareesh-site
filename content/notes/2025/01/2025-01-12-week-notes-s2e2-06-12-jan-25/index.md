@@ -2,7 +2,7 @@
 title: "Week notes, S3E2: 06 - 12 Jan, 25"
 date: 2025-01-12
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "family"
   - "intentions"
@@ -49,3 +49,4 @@ This week underscored that foundations aren’t just about plans and processes; 
 So the theme for Week 2 has been about "laying steady foundations."
 
 Next week’s intention? **"Finding Balance in Tension."**
+

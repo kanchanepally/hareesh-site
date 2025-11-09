@@ -16,7 +16,7 @@ For each of your 33 migrated posts in the `content/notes/` directory, please fol
 
 - [ ] **Open the post's `index.md` file.**
 - [ ] **Add `draft: false`:** In the front matter (the section between `---`), add the line `draft: false`. This is critical for the post to be published on Vercel.
-- [ ] **Assign a Category:** Review or add a `categories:` list to the front matter. Based on your content, some good categories would be:
+- [ ] **Assign a categories::** Review or add a `categories:` list to the front matter. Based on your content, some good categories would be:
     - `"Reflections"` (for weeknotes)
     - `"Execution"` (for posts on programme management, TPM, etc.)
     - `"Ed Tech"` (for posts on e-learning)
@@ -32,7 +32,7 @@ For each of your 33 migrated posts in the `content/notes/` directory, please fol
 ### C. Final Local Review
 
 - [ ] Once you have processed all your posts, run the site locally one last time with `hugo server`.
-- [ ] Click through the `/notes` page, a few category pages, and a few posts to ensure everything looks correct and there are no broken images.
+- [ ] Click through the `/notes` page, a few categories: pages, and a few posts to ensure everything looks correct and there are no broken images.
 
 ---
 

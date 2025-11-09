@@ -53,3 +53,4 @@ Photo by Krivec Ales on [Pexels.com](https://www.pexels.com/photo/woman-standing
 - Publish three posts and get more of a cadence
 
 - Preparation for Product & Tech internal conference
+

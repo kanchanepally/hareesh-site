@@ -2,7 +2,7 @@
 title: "S2E17 #Weeknotes Apr 22-28 '24"
 date: 2024-04-28
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "3-year-planning"
   - "agile"
@@ -77,3 +77,4 @@ The biggest challenge? Missing time with my parents and siblings who live far aw
 Next week, I'll be focusing on asking more "awkward assurance-type" questions, both within and outside the PMO. I'll also be working on measuring value and making progress on our soggy garden (at home and at work - you know what I mean!)
 
 **Onwards!**
+

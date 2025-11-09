@@ -2,7 +2,7 @@
 title: "S2E04 #Weeknotes 22-28 Jan'24"
 date: 2024-01-29
 draft: false
-category: [Refelections]
+categories: ["Reflections"]
 tags: 
   - "reflections"
   - "weeknotes"
@@ -47,3 +47,4 @@ Let's face it, I can't be everywhere at once. My ambitious hopes of coding, mind
 And, maybe in a corner of my brain, a sliver of hope for that run...
 
 So, here's to a week of intentional action, collaborative spirit, and maybe, just maybe, a stolen jog amidst the hustle. Onward!
+

@@ -31,3 +31,4 @@ As I've explored in my [Digital Sovereignty Hardware Project](/ventures/stealth)
 This isn't about abandoning the internet or rejecting technology. It's about building a better, more resilient, and more equitable digital world. It's about owning our data, controlling our digital identities, and having the freedom to communicate and transact without fear of surveillance or censorship.
 
 The path to digital sovereignty is a long one, but it starts with a simple realization: we need to own our own digital infrastructure. The recent outages and the looming threat of quantum computing are a wake-up call. It's time to start building a future where our digital lives are truly our own.
+

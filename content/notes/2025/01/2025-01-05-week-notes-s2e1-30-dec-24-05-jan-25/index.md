@@ -2,7 +2,7 @@
 title: "Week notes, S3E1: 30 Dec, 24- 05 Jan, 25"
 date: 2025-01-05
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "intentions"
   - "reflections"
@@ -50,3 +50,4 @@ So the theme for Week 1 of 2025 has been, "making space".
 I go into Week 2 with the intent to "lay steady foundations".
 
 **Happy New Year!**
+

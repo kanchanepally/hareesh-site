@@ -2,7 +2,7 @@
 title: "Week 20, May 13-19, 2024"
 date: 2024-05-20
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "agile"
   - "cto"
@@ -70,3 +70,4 @@ But again, thoroughly thrilled to be part of an amazing sailing club and can't w
 At work, I am going to continue focusing on the above but mainly on the spheres of how we get the work scheduled for next week and how we set up our teams, while continuing to push through the remainder of H1 deliverables. From the personal front, can't wait for our first wild camp of 2024!
 
 Cheerio!
+

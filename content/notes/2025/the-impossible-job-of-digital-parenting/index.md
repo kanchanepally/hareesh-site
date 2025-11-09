@@ -35,3 +35,4 @@ Based on my work with [MyDigitAlly](/ventures/mydigitally), I've learned that pa
 This is the "co-pilot" model of digital parenting. It's not about having all the answers, but about knowing how to ask the right questions and where to find reliable, non-judgmental guidance. It's about building trust and open communication with your children, so you can navigate the digital world together.
 
 The impossible job of digital parenting becomes a little more possible when we shift the goal from "expert" to "engaged guide." And that's a role every parent can succeed in.
+

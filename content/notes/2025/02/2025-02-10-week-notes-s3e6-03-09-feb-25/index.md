@@ -2,7 +2,7 @@
 title: "Week notes, S3E6: 03 - 09 Feb, 25"
 date: 2025-02-10
 draft: false
-category: [Refelections]
+categories: [Reflections]
 tags: 
   - "family"
   - "health"
@@ -46,3 +46,4 @@ Fun? Nordic Noir on the screen – atmospheric, brooding, a different kind of es
 Health… still a whisper, not a shout. The running shoes are still waiting. But tomorrow, the plan is to lace them up. Small steps. Consistent steps.
 
 This week wasn't about grand gestures. It was about **consolidation, connection, and those tiny, intentional steps forward.** At work, at home, within myself. It's the small adjustments to the wheel, as January reminded me, that hopefully, will lead to a smoother ride in the weeks ahead.
+

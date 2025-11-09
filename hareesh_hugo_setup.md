@@ -373,7 +373,7 @@ Edit your `index.md` file. Ensure it has the correct front matter. The `draft: f
 title: "My New Post Title"
 date: 2025-11-08
 draft: false
-categories: ["Some Category"]
+categories: ["Some categories:"]
 ---
 
 This is the beginning of my post...
