@@ -10780,16 +10780,16 @@ html[data-bs-theme="dark"] .breadcrumb-text {
   .breadcrumb-text {
     max-width: 100px; } }
 
-.book-category {
+.book-categories: {
   font-size: 1.5em;
   padding-bottom: .3em;
   border-bottom: 1px solid #c8c8c8;
   width: 100%; }
 
-.book-category-anchor .icon {
+.book-categories:-anchor .icon {
   font-size: 12px; }
 
-ul.book-category-content {
+ul.book-categories:-content {
   padding-left: 0; }
 
 .book-card a.goodreads {
@@ -10820,7 +10820,7 @@ ul.book-category-content {
 #books .row {
   margin: 0; }
 
-ul.book-category-content {
+ul.book-categories:-content {
   list-style: none; }
 
 .book-content.featured::before {
