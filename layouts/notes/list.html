@@ -3,9 +3,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul style="list-style: none; padding-left: 0;">
-    {{ $pages := where .Site.Pages "Section" "notes" }}
-    {{ $pages = where $pages "Kind" "page" }}
-    {{ range $pages.ByDate.Reverse }}
+    {{ range .Pages.ByDate.Reverse }}
         <li style="display: flex; flex-wrap: nowrap; align-items: baseline; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
             <div class="text-muted small" style="flex: 0 0 110px; font-family: monospace;">
                 {{ .Date.Format "02 Jan 2006" }}
