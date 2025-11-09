@@ -1,8 +1,8 @@
 ---
 title: "Conducting Program/Release retrospectives"
 date: 2024-02-07
-categories: 
-  - "execution"
+draft: false
+category: [Strategic-execution]
 tags: 
   - "agile"
   - "agile-project-management"

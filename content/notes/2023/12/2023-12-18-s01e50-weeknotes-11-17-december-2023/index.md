@@ -1,8 +1,8 @@
 ---
 title: "S01E50: #weeknotes: 11-17 December, 2023"
 date: 2023-12-18
-categories: 
-  - "improved-self"
+draft: false
+categories: [Reflections]
 ---
 
 As we bid farewell to 2023, it's time to reflect and look ahead, while keeping up the momentum. While it's been a busy year, I'm looking forward to the Christmas break.

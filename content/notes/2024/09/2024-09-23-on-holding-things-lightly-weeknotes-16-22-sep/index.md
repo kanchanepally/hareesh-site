@@ -1,6 +1,8 @@
 ---
 title: "On Holding things lightly - Weeknotes: 16 - 22 Sep"
 date: 2024-09-23
+draft: false
+category: [Refelections]
 tags: 
   - "delivery"
   - "intentions"

@@ -1,8 +1,8 @@
 ---
 title: "S2E05 #Weeknotes 29 Jan-04 Feb'24"
 date: 2024-02-05
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "intentions"
   - "leadership"

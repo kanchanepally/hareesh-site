@@ -3,11 +3,11 @@ title: "About"
 type: "page"
 ---
 
-I'm a Portfolio Director, founder, and builder focused on creating tools that empower people in the digital age. My work, both professional and personal, is guided by a few core beliefs.
+I'm a Technology Portfolio Director, founder, and builder focused on creating tools that empower people in the digital age. My work, both professional and personal, is guided by a few core beliefs.
 
 ### My Approach
 
-*   **The Expert Generalist:** I combine deep expertise in technology delivery with broad knowledge across product, strategy, and AI to connect the dots others miss.
+*   **The Expert Generalist:** I combine deep expertise in technology delivery with broad knowledge across product, strategy, execution, and AI to connect the dots others miss.
 
 *   **Digital Sovereignty:** I believe we need to own our digital lives. This principle drives my [hardware venture](/ventures/stealth) and is why this website is built on technology I control.
 

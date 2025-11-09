@@ -1,8 +1,8 @@
 ---
 title: "Navigating the Spectrum of Collaboration in Product Development (Building on John Cutler's Insights)"
 date: 2024-01-06
-categories: 
-  - "execution"
+draft: false
+categories: [Strategic-execution]
 tags: 
   - "delivery"
   - "project-management"

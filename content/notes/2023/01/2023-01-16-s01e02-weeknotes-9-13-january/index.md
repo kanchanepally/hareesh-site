@@ -1,8 +1,8 @@
 ---
 title: "S01E02: #weeknotes: 9-13 January"
 date: 2023-01-16
-categories: 
-  - "improved-self"
+draft: false
+categories: [Reflections]
 tags: 
   - "agile"
   - "delivery"

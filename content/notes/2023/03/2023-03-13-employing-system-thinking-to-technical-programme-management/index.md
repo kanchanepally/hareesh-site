@@ -1,8 +1,8 @@
 ---
 title: "Employing System Thinking to Technical Programme Management"
 date: 2023-03-13
-categories: 
-  - "execution"
+draft: false
+categories: [Strategic-execution]
 tags: 
   - "agile"
   - "delivery"

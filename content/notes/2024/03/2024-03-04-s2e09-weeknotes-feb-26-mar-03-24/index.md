@@ -1,8 +1,8 @@
 ---
 title: "S2E09 #Weeknotes Feb 26-Mar 03, '24"
 date: 2024-03-04
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "acculturation"
   - "agile"

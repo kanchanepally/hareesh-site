@@ -1,6 +1,8 @@
 ---
 title: "Week 27 #Weeknotes: July 8 -14, 2024"
 date: 2024-07-15
+draft: false
+category: [Refelections]
 tags: 
   - "agile"
   - "intentions"

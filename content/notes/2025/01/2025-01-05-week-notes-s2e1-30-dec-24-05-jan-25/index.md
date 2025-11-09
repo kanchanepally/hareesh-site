@@ -1,8 +1,8 @@
 ---
 title: "Week notes, S3E1: 30 Dec, 24- 05 Jan, 25"
 date: 2025-01-05
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "intentions"
   - "reflections"

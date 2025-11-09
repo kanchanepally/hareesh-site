@@ -1,6 +1,8 @@
 ---
 title: "Week 20, May 13-19, 2024"
 date: 2024-05-20
+draft: false
+category: [Refelections]
 tags: 
   - "agile"
   - "cto"

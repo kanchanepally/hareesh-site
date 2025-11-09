@@ -1,8 +1,8 @@
 ---
 title: "Week notes, S3E6: 03 - 09 Feb, 25"
 date: 2025-02-10
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "family"
   - "health"

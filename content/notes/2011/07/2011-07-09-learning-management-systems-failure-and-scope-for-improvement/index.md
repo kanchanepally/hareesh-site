@@ -1,8 +1,8 @@
 ---
 title: "Learning Management Systems: Failure and Scope for Improvement"
 date: 2011-07-09
-categories: 
-  - "e-learning"
+draft: false
+categories: [Ed Tech]
 ---
 
 In the light of arguments in the blogosphere and e-Learning industry that Learning Management Systems (LMS) are now ‘dead’ (Pontefract.D., 2009 and 2010; Martin Weller, 2007; Ed Cohen, 2010,et al.) and have been superseded by Personal Learning Networks (PLNs) or even Open Learning Networks (OLNs), the key focus of this post is to understand why LMS failed to meet its (early) expectations. The post first briefly defines LMS - explaining its origins, describing how it has been used, and elucidating the changing face of technology and learning theory.  It will then consider LMS’s failure to meet these changing needs, discusses the shifts to Personal Learning Networks, before finally listing some potential improvements that, if implemented, could provide a basis for repositioning LMS applications to achieve future success.<!--more-->

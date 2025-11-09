@@ -1,8 +1,8 @@
 ---
 title: "S2E03 #WeekNotes 15-21 Jan '24"
 date: 2024-01-22
-categories: 
-  - "improved-self"
+draft: false
+categories: [Reflections]
 tags: 
   - "weeknotes"
 ---

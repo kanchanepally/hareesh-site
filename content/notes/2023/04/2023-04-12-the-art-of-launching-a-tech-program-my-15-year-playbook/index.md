@@ -1,8 +1,8 @@
 ---
 title: "The Art of Launching a Tech Program: My 15-Year Playbook"
 date: 2023-04-12
-categories: 
-  - "execution"
+draft: false
+categories: [Strategic-execution]
 tags: 
   - "agile"
   - "delivery"

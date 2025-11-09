@@ -1,8 +1,8 @@
 ---
 title: "Jan 2025 Summary | Monthnotes"
 date: 2025-02-03
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "monthnotes"
   - "reflections"

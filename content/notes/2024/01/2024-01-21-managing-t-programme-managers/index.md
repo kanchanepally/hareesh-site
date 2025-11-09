@@ -1,8 +1,8 @@
 ---
 title: "Managing T/Programme Managers"
 date: 2024-01-21
-categories: 
-  - "execution"
+draft: false
+categories: [Strategic-execution]
 tags: 
   - "change-management"
   - "leadership"

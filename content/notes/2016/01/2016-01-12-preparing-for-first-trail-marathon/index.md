@@ -1,8 +1,8 @@
 ---
 title: "Preparing for First Trail Marathon"
 date: 2016-01-12
-categories: 
-  - "improved-self"
+draft: false
+categories: [Improved-self]
 tags: 
   - "marathon"
   - "running"

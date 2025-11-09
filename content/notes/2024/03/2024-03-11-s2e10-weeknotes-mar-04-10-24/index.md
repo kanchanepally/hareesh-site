@@ -1,8 +1,8 @@
 ---
 title: "S2E10 #Weeknotes Mar 04-10 '24"
 date: 2024-03-11
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "agile"
   - "governance"

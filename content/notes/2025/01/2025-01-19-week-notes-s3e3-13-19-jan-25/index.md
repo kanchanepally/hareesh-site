@@ -1,8 +1,8 @@
 ---
 title: "Week notes, S3E3: 13 - 19 Jan, 25"
 date: 2025-01-19
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "family"
   - "intentions"

@@ -1,8 +1,8 @@
 ---
 title: "S2E11 #Weeknotes Mar 11-17 '24"
 date: 2024-03-18
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "3-year-planning"
   - "agile"

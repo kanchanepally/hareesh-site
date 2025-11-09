@@ -1,8 +1,8 @@
 ---
 title: "Week 31 #Weeknotes: Aug 5-9, 2024"
 date: 2024-08-12
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "agile"
   - "delivery"

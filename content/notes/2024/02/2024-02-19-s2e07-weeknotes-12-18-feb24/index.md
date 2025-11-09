@@ -1,8 +1,8 @@
 ---
 title: "S2E07 #Weeknotes 12-18 Feb'24"
 date: 2024-02-19
-categories: 
-  - "improved-self"
+draft: false
+category: [Refelections]
 tags: 
   - "acculturation"
   - "assimilation"
