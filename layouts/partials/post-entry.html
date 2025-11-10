@@ -1,28 +1,25 @@
-<div class="post-line">
-
-    {{ $dateFormat := .Site.Params.listDateFormat | default "2 Jan 2006" }}
+<div class="post-line" style="display: flex; flex-wrap: nowrap; align-items: baseline; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+    
+    {{ $dateFormat := .Site.Params.listDateFormat | default "02 Jan 2006" }}
 
     {{ if .Parent.Param "showListDate" | default true }}
-        <p class="line-date">{{ .Date | time.Format $dateFormat }} </p>
+        <div class="text-muted small" style="flex: 0 0 110px; font-family: monospace;">
+            {{ .Date | time.Format $dateFormat }}
+        </div>
     {{ end }}
 
-    <div>
-        <p class="line-title">
-            <a href="{{ .RelPermalink }}">
-                {{ .Title }}
-            </a>
-        </p>
+    <div style="flex: 1 1 auto; margin: 0 1rem;">
+        <a href="{{ .RelPermalink }}" class="text-decoration-none">
+            {{ .Title }}
+        </a>
+    </div>
 
+    <div class="text-muted small" style="flex: 0 0 200px; text-align: left; font-family: monospace; text-transform: uppercase;">
         {{ with .Params.categories }}
-        <ul class="categories">
-            {{ range . }}
-            <li><a href="{{ "/categories/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+            {{ range $index, $value := . }}
+                {{ if $index }}, {{ end }}<a href="{{ "/categories/" | relURL }}{{ . | urlize }}" class="text-muted text-decoration-none">{{ . }}</a>
             {{ end }}
-        </ul>
-        {{ end }}
-
-        {{ if .Site.Params.listSummaries }}
-        <p class="line-summary"> {{ .Summary }} </p>
         {{ end }}
     </div>
+
 </div>
