@@ -86,3 +86,33 @@ section {
   min-width: 300px;
   border-radius: 4px;
 }
+
+/* Style categories to match date */
+.post-line .categories {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.post-line .categories li {
+    display: inline !important;
+    margin-right: 5px !important;
+}
+
+.post-line .categories li::after {
+    content: ",";
+}
+
+.post-line .categories li:last-child::after {
+    content: "";
+}
+
+.post-line .categories li a {
+    font-size: 0.85em !important;
+    color: #6c757d !important;
+    text-decoration: none !important;
+}
+
+.post-line .categories li a:hover {
+    text-decoration: underline !important;
+}

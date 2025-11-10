@@ -54,3 +54,7 @@ These steps are performed in your Vercel project settings.
 - [ ] **Configure DNS:** Vercel will provide you with the DNS records you need to add at your domain registrar (wherever you bought `hareesh.co`). This usually involves changing the `A` record or `CNAME` record.
 - [ ] **Wait for Propagation:** DNS changes can take anywhere from a few minutes to a few hours. Vercel will automatically provision an SSL certificate and will show the status as "Valid" once everything is connected correctly.
 - [ ] **Celebrate:** Your new site is live at `https://hareesh.co`!
+
+
+![alt text](image.png)
+![alt text](image-1.png)

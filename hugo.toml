@@ -70,12 +70,12 @@ footerContent = " "
 
 
 # Customize which sections appear on homepage - we'll keep it simple for now
-sections = [
-  "showcase",
-  "about",
-  "client-and-work",
-  "contact",
-]
+# sections = [
+#   "showcase",
+#   "about",
+#   "client-and-work",
+#   "contact",
+# ]
 
 homepageExperienceCount = 6
 
