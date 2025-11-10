@@ -7,8 +7,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $pages := where .Site.RegularPages "Section" "notes" }}
-    {{ $paginator := .Paginate $pages }}
+    {{ $paginator := .Paginate .RegularPages }}   
 
     {{ range $paginator.Pages }}
         {{ partial "post-entry.html" . }}

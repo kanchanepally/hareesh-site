@@ -7,8 +7,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
 
-    {{ $pages := where .Site.RegularPages "Section" "ventures" }}
-    {{ $paginator := .Paginate $pages.ByWeight }}
+    {{ $paginator := .Paginate .RegularPages.ByWeight }}
 
     {{ range $paginator.Pages }}
         {{ partial "post-entry.html" . }}
