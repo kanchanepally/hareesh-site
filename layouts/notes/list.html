@@ -1,4 +1,16 @@
 {{ define "main" }}
+
+<!-- DEBUGGING -->
+<div style="background: #ffc; padding: 1rem; border: 2px solid #f00;">
+  <h3>Debugging Information</h3>
+  <p>This is the notes/list.html template.</p>
+  <p>Page Title: {{ .Title }}</p>
+  <p>Page Kind: {{ .Kind }}</p>
+  <p>Number of Pages (.Pages): {{ len .Pages }}</p>
+  <p>Number of Regular Pages (.RegularPages): {{ len .RegularPages }}</p>
+</div>
+<!-- END DEBUGGING -->
+
 <div class="list-container">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
