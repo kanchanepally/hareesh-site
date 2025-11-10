@@ -1,3 +1,32 @@
-<h1 style="background: cyan; color: black; font-size: 4rem; padding: 5rem; text-align: center;">
-  TESTING VENTURES LIST.HTML
-</h1>
+{{ define "main" }}
+
+<div class="list-container">
+
+    {{ partial "breadcrumbs.html" . }}
+
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+    {{ $tagsPage := eq .Title "Tags"}}
+
+    {{ $paginationSize := 1}}
+    {{ if (gt .Site.Params.paginationSize 0) }}
+    {{ $paginationSize = .Site.Params.paginationSize }}
+    {{ end }}
+
+    {{ $paginator := .Paginate (.Pages) $paginationSize }}
+
+    {{ range $index, $page := $paginator.Pages }}
+
+    {{ if $tagsPage }}
+    {{ partial "tag-entry.html" $page}}
+    {{ else }}
+    {{ partial "post-entry.html" $page}}
+    {{ end }}
+
+    {{ end }}
+
+    {{ partial "pagination-controls.html" $paginator}}
+
+</div>
+{{ end }}
