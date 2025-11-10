@@ -1,9 +1,7 @@
 {
-  "build": {
-    "command": "hugo --gc --minify -b https://$VERCEL_URL",
-    "env": {
-      "HUGO_VERSION": "0.152.2",
-      "HUGO_BUILD_SUBMODULES": "true"
-    }
+  "env": {
+    "HUGO_VERSION": "0.152.2",
+    "HUGO_BUILD_SUBMODULES": "true",
+    "HUGO_BASEURL": "https://$VERCEL_URL"
   }
 }
