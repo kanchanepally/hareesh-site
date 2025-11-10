@@ -50,6 +50,9 @@
       "list-container",
       "main",
       "not-found",
+      "page-number",
+      "pagination",
+      "pagination-control",
       "post-line",
       "single-content",
       "single-date",
@@ -63,6 +66,8 @@
       "single-subsummary",
       "single-title",
       "small",
+      "tag-line",
+      "tag-title",
       "text-decoration-none",
       "text-muted"
     ],
