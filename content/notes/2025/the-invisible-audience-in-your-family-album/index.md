@@ -1,3 +1,15 @@
+---
+title: "The Invisible Audience in Your Family Album: Who is Learning from Your Children?"
+date: 2025-11-22
+draft: false
+description: "Major social platforms are now using your personal photos to train Artificial Intelligence models by default—here is why it matters."
+categories: [Digital Sovereignty, Parenting]
+---
+
+We have all heard the old adage about the internet: **"If the product is free, you are the product."**
+
+For the last decade, we understood the transaction. We posted photos of our holidays, our meals, and our children, and in exchange, platforms like Facebook, Instagram, and LinkedIn scanned those images to show us targeted ads. They wanted to know if we needed nappies or a new car.
+
 But recently, the "price" of these free apps has quietly changed. The transaction is no longer just about advertising. It is about education—but not for us.
 
 ## The New "Opt-In" You Didn't Click
