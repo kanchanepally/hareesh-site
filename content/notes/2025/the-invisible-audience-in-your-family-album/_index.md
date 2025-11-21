@@ -1,6 +1,7 @@
 ---
 title: "The Invisible Audience in Your Family Album: Who is Learning from Your Children?"
 date: 2025-11-22T08:00:00+00:00
+draft: false
 slug: "ai-training-on-family-photos-privacy-guide"
 categories: 
   - "Digital Sovereignty"
@@ -13,7 +14,7 @@ tags:
   - "Online Safety"
   - "Meta AI"
   - "LinkedIn"
-draft: false
+
 summary: "Major social platforms are now using your personal photos to train Artificial Intelligence models by default. Here is why it matters for your family and how to opt out in under 2 minutes."
 author: "Hareesh"
 ---
