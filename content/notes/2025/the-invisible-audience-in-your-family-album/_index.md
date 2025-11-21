@@ -1,6 +1,6 @@
 ---
 title: "The Invisible Audience in Your Family Album: Who is Learning from Your Children?"
-date: 2025-11-22T08:00:00+00:00
+date: 2025-11-21
 draft: false
 slug: "ai-training-on-family-photos-privacy-guide"
 categories: 
