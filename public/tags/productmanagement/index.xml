@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Productmanagement on Hareesh Kanchanepally</title><link>http://localhost:1313/tags/productmanagement/</link><description>Recent content in Productmanagement on Hareesh Kanchanepally</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/productmanagement/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 20, May 13-19, 2024</title><link>http://localhost:1313/notes/2024/05/2024-05-20-week-20-may-13-19-2024/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/notes/2024/05/2024-05-20-week-20-may-13-19-2024/</guid><description>&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Productmanagement on Hareesh Kanchanepally</title><link>https://hareesh.co/tags/productmanagement/</link><description>Recent content in Productmanagement on Hareesh Kanchanepally</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://hareesh.co/tags/productmanagement/index.xml" rel="self" type="application/rss+xml"/><item><title>Week 20, May 13-19, 2024</title><link>https://hareesh.co/notes/2024/05/2024-05-20-week-20-may-13-19-2024/</link><pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate><guid>https://hareesh.co/notes/2024/05/2024-05-20-week-20-may-13-19-2024/</guid><description>&lt;figure&gt;
 &lt;p&gt;&lt;a href="https://hareesh.co/wp-content/uploads/2024/05/20240519_181455.jpg"&gt;
 
 
@@ -17,7 +17,7 @@
  
  
  &lt;div class="img-container" style="--w: 1024; --h: 461;"&gt;
- &lt;img loading="lazy" alt="" src="http://localhost:1313/notes/2024/05/2024-05-20-week-20-may-13-19-2024/images/20240519_181455.jpg" width="1024" height="461"&gt;
+ &lt;img loading="lazy" alt="" src="https://hareesh.co/notes/2024/05/2024-05-20-week-20-may-13-19-2024/images/20240519_181455.jpg" width="1024" height="461"&gt;
  &lt;/div&gt;
  
  
@@ -34,7 +34,7 @@
  Work
  &lt;a class="anchor" href="#work"&gt;#&lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Generalizations are super easy, and we like to theorize and come up with very assured plans or &amp;ldquo;solutions&amp;rdquo; to some of our wicked problems. I am going to generalize a bit now, but by saying how easy it is to do, I ask you to consider this theory with a disclaimer, a caution, and as my opinion, inviting you to share yours. So, here&amp;rsquo;s my theory about the current problems we face in product development/delivery:&lt;/p&gt;</description></item><item><title>Conducting Program/Release retrospectives</title><link>http://localhost:1313/notes/2024/02/2024-02-07-conducting-program-release-retrospectives/</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>http://localhost:1313/notes/2024/02/2024-02-07-conducting-program-release-retrospectives/</guid><description>&lt;ol&gt;
+&lt;p&gt;Generalizations are super easy, and we like to theorize and come up with very assured plans or &amp;ldquo;solutions&amp;rdquo; to some of our wicked problems. I am going to generalize a bit now, but by saying how easy it is to do, I ask you to consider this theory with a disclaimer, a caution, and as my opinion, inviting you to share yours. So, here&amp;rsquo;s my theory about the current problems we face in product development/delivery:&lt;/p&gt;</description></item><item><title>Conducting Program/Release retrospectives</title><link>https://hareesh.co/notes/2024/02/2024-02-07-conducting-program-release-retrospectives/</link><pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate><guid>https://hareesh.co/notes/2024/02/2024-02-07-conducting-program-release-retrospectives/</guid><description>&lt;ol&gt;
 &lt;li&gt;&lt;a href="https://hareesh.co/2024/02/07/conducting-program-release-retrospectives/#what-s-the-difference-between-a-release-retro-lessons-learnt-sprint-retro"&gt;What&amp;rsquo;s the Difference between a release retro, lessons learnt, sprint retro?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://hareesh.co/2024/02/07/conducting-program-release-retrospectives/#conducting-a-release-retrospective-a-tried-and-tested-framework"&gt;Conducting a release retrospective – a “tried and tested” framework&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://hareesh.co/2024/02/07/conducting-program-release-retrospectives/#sample-activities-for-each-stage"&gt;Sample Activities for Each Stage:&lt;/a&gt;&lt;/li&gt;
